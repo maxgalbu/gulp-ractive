@@ -1,7 +1,7 @@
 {
   "name": "gulp-ractive",
   "description": "Precompile ractive templates with Ractive.parse().",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Max Galbusera",
     "email": "max.galbusera@gmail.com"
@@ -28,11 +28,5 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/maxgalbu/gulp-ractive/issues"
-  },
-  "_id": "gulp-ractive@0.0.1",
-  "dist": {
-    "shasum": "6e57f9db36f453d9556975147df600e491c5812b"
-  },
-  "_from": "gulp-ractive@0.0.1",
-  "_resolved": "https://registry.npmjs.org/gulp-ractive/-/gulp-ractive-0.0.1.tgz"
+  }
 }
