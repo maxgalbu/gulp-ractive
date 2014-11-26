@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "gulp-util": "~2.2.14",
-    "through2": "~0.4.0",
-    "ractive": "^0.5.5",
+    "through2": "^0.5",
+    "ractive": "~0.5",
     "chalk": "^0.5.1"
   },
   "engines": {
