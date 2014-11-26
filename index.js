@@ -9,8 +9,6 @@ const PLUGIN_NAME = 'gulp-ractive';
 
 function gulpRactive(options)
 {
-	var delimiters = options.delimiters || ['{{','}}'];
-	
 	var stream = through.obj(function(file, enc, callback) {
 		if (file.isStream())
 		{
