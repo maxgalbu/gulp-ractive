@@ -3,18 +3,18 @@ gulp-ractive
 
 ### Installation and Ractive versions
 
-The master branch (and the 0.0.1 version) is using Ractive 0.5.8, because of a bug that arise (https://github.com/ractivejs/ractive/issues/1457) in Ractive 0.6 and is still not fixed in a release.
+The master branch (and the latest version on npm) is using Ractive 0.5.8, because of a bug that arise (https://github.com/ractivejs/ractive/issues/1457) in Ractive 0.6 and is still not fixed in a release.
 
 If you want to install this version, use:
 
 ```
-npm install gulp-ractive@0.0.1 --save-dev
+npm install gulp-ractive --save-dev
 ```
 
 If you want to use ractive 0.6.x, install the latest version.
 
 ```
-npm install gulp-ractive --save-dev
+npm install gulp-ractive@0.0.2 --save-dev
 ```
 
 
