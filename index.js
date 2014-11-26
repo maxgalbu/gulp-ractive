@@ -2,7 +2,6 @@ var fs = require('fs');
 var through = require('through2');
 var gulputil = require('gulp-util');
 var Ractive = require('ractive');
-var chalk = require('chalk');
 var PluginError = gulputil.PluginError;
 
 const PLUGIN_NAME = 'gulp-ractive';
