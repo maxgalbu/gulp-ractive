@@ -1,6 +1,15 @@
 gulp-ractive
 ============
 
+### Installation and Ractive versions
+
+This version of the plugin uses ractive 0.6.x, to install this version do:
+
+```
+npm install gulp-ractive@0.0.2 --save-dev
+```
+
+
 ### Usage
 
 Simple example:
