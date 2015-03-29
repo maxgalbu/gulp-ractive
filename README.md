@@ -1,4 +1,4 @@
-gulp-ractive
+gulp-ractive [![Build Status](https://travis-ci.org/maxgalbu/gulp-ractive.svg?branch=ractive-0.6)](https://travis-ci.org/maxgalbu/gulp-ractive)
 ============
 
 ### Installation and Ractive versions
