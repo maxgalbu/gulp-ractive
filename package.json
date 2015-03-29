@@ -6,6 +6,9 @@
     "name": "Max Galbusera",
     "email": "max.galbusera@gmail.com"
   },
+  "scripts": {
+    "test": "mocha"
+  },
   "dependencies": {
     "gulp-util": "~2.2.14",
     "through2": "^0.5",
@@ -28,5 +31,8 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/maxgalbu/gulp-ractive/issues"
+  },
+  "devDependencies": {
+    "should": "^5.2.0"
   }
 }
