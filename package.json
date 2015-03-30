@@ -13,7 +13,7 @@
   "dependencies": {
     "gulp-util": "~2.2.14",
     "through2": "^0.5",
-    "ractive": "~0.6"
+    "ractive": "~0.7"
   },
   "engines": {
     "node": ">= 0.9"
