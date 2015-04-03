@@ -7,7 +7,7 @@ This branch of the plugin uses ractive 0.7.x. To install this version, use:
 
 ```
 npm install gulp-ractive@0.7 --save-dev
-
+```
 
 ### Usage
 
