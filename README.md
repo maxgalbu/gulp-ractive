@@ -6,14 +6,7 @@ gulp-ractive [![Build Status](https://travis-ci.org/maxgalbu/gulp-ractive.svg?br
 This branch of the plugin uses ractive 0.7.x. To install this version, use:
 
 ```
-npm install gulp-ractive@0.0.3 --save-dev
-```
-
-or simply:
-
-```
-npm install gulp-ractive --save-dev
-```
+npm install gulp-ractive@0.7 --save-dev
 
 
 ### Usage
