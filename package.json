@@ -1,7 +1,7 @@
 {
   "name": "gulp-ractive",
   "description": "Precompile ractive templates with Ractive.parse().",
-  "version": "0.6.0-align",
+  "version": "0.6.0",
   "author": {
     "name": "Max Galbusera",
     "email": "max.galbusera@gmail.com"
