@@ -1,14 +1,13 @@
 {
   "name": "gulp-ractive",
   "description": "Precompile ractive templates with Ractive.parse().",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "author": {
     "name": "Max Galbusera",
     "email": "max.galbusera@gmail.com"
   },
   "scripts": {
-    "test": "mocha",
-    "preinstall": "npm install -g mocha"
+    "test": "mocha"
   },
   "dependencies": {
     "gulp-util": "~2.2.14",
