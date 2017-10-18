@@ -1,7 +1,7 @@
 {
   "name": "gulp-ractive",
   "description": "Precompile ractive templates with Ractive.parse().",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "author": {
     "name": "Max Galbusera",
     "email": "max.galbusera@gmail.com"
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "gulp-util": "~2.2.14",
-    "ractive": "^0.8.0",
+    "ractive": "^0.9.0",
     "through2": "^0.5"
   },
   "engines": {
